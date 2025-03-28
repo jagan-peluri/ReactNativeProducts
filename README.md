@@ -1,7 +1,7 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 ![Demo](https://github.com/jagan-peluri/ReactNativeProducts/blob/main/src/assets/demo.gif?raw=true)
-<video src="https://github.com/jagan-peluri/ReactNativeProducts/blob/main/assets/demo.mp4" controls>
+<video src="https://github.com/jagan-peluri/ReactNativeProducts/raw/refs/heads/main/src/asserts/demo.mp4" controls>
 
 
 # Getting Started
