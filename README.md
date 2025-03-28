@@ -2,6 +2,8 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 ![Demo](https://github.com/jagan-peluri/ReactNativeProducts/blob/main/src/assets/demo.gif?raw=true)
 <video src="https://github.com/jagan-peluri/ReactNativeProducts/raw/refs/heads/main/src/asserts/demo.mp4" controls>
+![Demo](src/asserts/demo.gif)
+
 
 
 # Getting Started
